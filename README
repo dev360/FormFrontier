@@ -1,0 +1,6 @@
+* A short disclaimer *
+This project is mostly an experiment in abandoning ViewState and the 
+provided ASP.NET Web/HTML controls. I had previously written a similar
+project which utilized the madness that is WebControls - this time I
+want to see how feasible it would be to rewrite similar functionality
+from the ground up without using the Controls collection at all.
